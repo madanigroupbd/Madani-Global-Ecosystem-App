@@ -1,0 +1,6 @@
+{
+  "name": "Madani Global Ecosystem",
+  "description": "Comprehensive multi-module Super App for Fintech, Welfare, Commerce, Global Medical Tourism, Education, Cyber Security, and Encrypted Law Enforcement Support.",
+  "requestFramePermissions": ["camera", "geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
